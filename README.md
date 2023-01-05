@@ -18,6 +18,7 @@
 - The bottom two charts provide a breakdown of the big-picture counts by project sector.
 
 **Tableau Report Design (PDF version)**: 
+- The data shown has been desensitized
 
 ![xRM-1](https://user-images.githubusercontent.com/111835409/210684995-9c3d4c18-b55d-4c21-b857-32acc6475e59.png)
 
@@ -40,5 +41,6 @@
 
 
 **Tableau Report Design (PDF version)**: 
+- The data shown has been desensitized
 
 ![Operations_Tableau](https://user-images.githubusercontent.com/111835409/210687815-735d3258-3c04-497e-bb62-23b9cf88cd9d.png)
