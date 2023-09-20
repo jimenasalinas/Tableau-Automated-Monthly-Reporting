@@ -1,7 +1,7 @@
 # Tableau Automated Monthly Reporting
  Automated monthly reporting dashboard examples using Tableau
 
-- Tableau can be a great tool for simplifying monthly reporting processes, using the Tableau Server scheduling function can help save a lot of time updating data sources or running reports. This repository includes some report examples that helped me streamline monthly reporting processes. 
+- Tableau can be a great tool for simplifying monthly reporting processes using the Tableau Server scheduling function can help save a lot of time updating data sources or running reports. This repository includes some report examples that helped me streamline monthly reporting processes. 
 
 # Monthly Operations Project Pipeline
 
@@ -41,6 +41,6 @@
 
 
 **Tableau Report Design (PDF version)**: 
-- The data shown has been desensitized and does not represent actual values.
+
 
 ![Operations_Tableau](https://user-images.githubusercontent.com/111835409/210687815-735d3258-3c04-497e-bb62-23b9cf88cd9d.png)
